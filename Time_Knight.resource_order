@@ -17,6 +17,9 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"spr_dead","order":3,"path":"sprites/spr_dead/spr_dead.yy",},
+    {"name":"spr_jump","order":2,"path":"sprites/spr_jump/spr_jump.yy",},
     {"name":"spr_run","order":1,"path":"sprites/spr_run/spr_run.yy",},
+    {"name":"spr_runattack","order":4,"path":"sprites/spr_runattack/spr_runattack.yy",},
   ],
 }
