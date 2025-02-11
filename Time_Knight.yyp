@@ -35,6 +35,8 @@
   "name":"Time_Knight",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
+    {"id":{"name":"spr_run","path":"sprites/spr_run/spr_run.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
