@@ -34,8 +34,10 @@
   },
   "name":"Time_Knight",
   "resources":[
+    {"id":{"name":"font_timer","path":"fonts/font_timer/font_timer.yy",},},
     {"id":{"name":"obj_mur","path":"objects/obj_mur/obj_mur.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
     {"id":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
     {"id":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
     {"id":{"name":"spr_dead","path":"sprites/spr_dead/spr_dead.yy",},},
@@ -52,8 +54,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
     {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
+    {"roomId":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
