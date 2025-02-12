@@ -17,8 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"spr_dead","order":3,"path":"sprites/spr_dead/spr_dead.yy",},
+    {"name":"spr_dungeon","order":6,"path":"sprites/spr_dungeon/spr_dungeon.yy",},
+    {"name":"spr_jump","order":2,"path":"sprites/spr_jump/spr_jump.yy",},
     {"name":"obj_mur","order":1,"path":"objects/obj_mur/obj_mur.yy",},
     {"name":"spr_mur","order":3,"path":"sprites/spr_mur/spr_mur.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"spr_runattack","order":4,"path":"sprites/spr_runattack/spr_runattack.yy",},
   ],
 }
