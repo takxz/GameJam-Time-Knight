@@ -40,6 +40,7 @@
     {"id":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
     {"id":{"name":"spr_dead","path":"sprites/spr_dead/spr_dead.yy",},},
     {"id":{"name":"spr_dungeon","path":"sprites/spr_dungeon/spr_dungeon.yy",},},
+    {"id":{"name":"spr_idle","path":"sprites/spr_idle/spr_idle.yy",},},
     {"id":{"name":"spr_jump","path":"sprites/spr_jump/spr_jump.yy",},},
     {"id":{"name":"spr_mur","path":"sprites/spr_mur/spr_mur.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
