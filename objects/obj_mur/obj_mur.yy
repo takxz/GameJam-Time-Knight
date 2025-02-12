@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_mur",
-    "path":"sprites/spr_mur/spr_mur.yy",
+    "name":"spr_collision",
+    "path":"sprites/spr_collision/spr_collision.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

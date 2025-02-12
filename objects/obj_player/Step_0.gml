@@ -32,3 +32,23 @@ if (place_meeting(x, y + vspd, obj_mur))
 
 y = y + vspd
 
+if (!place_meeting(x, y + 1, obj_mur))
+{
+	sprite_index = spr_jump;
+}
+else
+{
+	if(hspd == 0)
+	{
+		sprite_index = spr_idle;	
+	}
+	else
+	{
+		sprite_index = spr_run;
+	}
+}
+
+if (hspd != 0)
+{
+	image_xscale = sign(hspd)	
+}
