@@ -31,3 +31,4 @@ if (place_meeting(x, y + vspd, obj_mur))
 }
 
 y = y + vspd
+
