@@ -36,6 +36,8 @@
   "resources":[
     {"id":{"name":"obj_mur","path":"objects/obj_mur/obj_mur.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
+    {"id":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
+    {"id":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
     {"id":{"name":"spr_dead","path":"sprites/spr_dead/spr_dead.yy",},},
     {"id":{"name":"spr_dungeon","path":"sprites/spr_dungeon/spr_dungeon.yy",},},
     {"id":{"name":"spr_jump","path":"sprites/spr_jump/spr_jump.yy",},},
@@ -46,7 +48,10 @@
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[],
+  "RoomOrderNodes":[
+    {"roomId":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
+    {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
+  ],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
