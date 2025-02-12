@@ -51,6 +51,7 @@
     {"id":{"name":"_3rd_Layer","path":"sprites/_3rd_Layer/_3rd_Layer.yy",},},
     {"id":{"name":"_4th_Layer","path":"sprites/_4th_Layer/_4th_Layer.yy",},},
     {"id":{"name":"_5th_Layer","path":"sprites/_5th_Layer/_5th_Layer.yy",},},
+    {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
     {"id":{"name":"spr_dead","path":"sprites/spr_dead/spr_dead.yy",},},
     {"id":{"name":"spr_dungeon","path":"sprites/spr_dungeon/spr_dungeon.yy",},},
     {"id":{"name":"spr_gameCorentin","path":"sprites/spr_gameCorentin/spr_gameCorentin.yy",},},

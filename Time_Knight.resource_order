@@ -40,6 +40,7 @@
     {"name":"spr_mur","order":3,"path":"sprites/spr_mur/spr_mur.yy",},
     {"name":"spr_player","order":2,"path":"sprites/spr_player/spr_player.yy",},
     {"name":"spr_run","order":9,"path":"sprites/spr_run/spr_run.yy",},
+    {"name":"spr_collision","order":3,"path":"sprites/spr_collision/spr_collision.yy",},
     {"name":"spr_runattack","order":4,"path":"sprites/spr_runattack/spr_runattack.yy",},
     {"name":"Sprite12","order":16,"path":"sprites/Sprite12/Sprite12.yy",},
   ],
