@@ -54,9 +54,11 @@ else
 
 // tir
 
-if is_firing = false {
-	is_firing = true
-	sprite_index = spr_ennemy_attack
-	instance_create_layer(x, y, "Ennemy", obj_fireball)
-	alarm[0] = choose(300, 450, 600)
+if (point_distance(x, y, player_x, player_y) < detection_radius) {
+    if (is_firing == false) {
+        is_firing = true;
+        sprite_index = spr_ennemy_attack;
+        instance_create_layer(x, y, "Ennemy", obj_fireball);
+        alarm[0] = choose(150, 210, 340);
+    }
 }
