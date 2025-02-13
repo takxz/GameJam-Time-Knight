@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_mur",
+  "%Name":"obj_collision",
   "eventList":[],
   "managed":true,
-  "name":"obj_mur",
+  "name":"obj_collision",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

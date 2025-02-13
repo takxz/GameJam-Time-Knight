@@ -37,9 +37,9 @@
   "resources":[
     {"id":{"name":"font_timer","path":"fonts/font_timer/font_timer.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_mur_ennemy","path":"objects/obj_mur_ennemy/obj_mur_ennemy.yy",},},
     {"id":{"name":"obj_mur_final","path":"objects/obj_mur_final/obj_mur_final.yy",},},
-    {"id":{"name":"obj_mur","path":"objects/obj_mur/obj_mur.yy",},},
     {"id":{"name":"obj_parallax","path":"objects/obj_parallax/obj_parallax.yy",},},
     {"id":{"name":"obj_player_final","path":"objects/obj_player_final/obj_player_final.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
@@ -69,9 +69,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
     {"roomId":{"name":"room_level2","path":"rooms/room_level2/room_level2.yy",},},
     {"roomId":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
-    {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

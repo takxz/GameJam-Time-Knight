@@ -18,9 +18,9 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_camera","order":4,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_collision","order":1,"path":"objects/obj_collision/obj_collision.yy",},
     {"name":"obj_mur_ennemy","order":6,"path":"objects/obj_mur_ennemy/obj_mur_ennemy.yy",},
     {"name":"obj_mur_final","order":2,"path":"objects/obj_mur_final/obj_mur_final.yy",},
-    {"name":"obj_mur","order":1,"path":"objects/obj_mur/obj_mur.yy",},
     {"name":"obj_parallax","order":5,"path":"objects/obj_parallax/obj_parallax.yy",},
     {"name":"obj_player_final","order":3,"path":"objects/obj_player_final/obj_player_final.yy",},
     {"name":"obj_timer","order":2,"path":"objects/obj_timer/obj_timer.yy",},
