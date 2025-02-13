@@ -45,6 +45,9 @@ else
 	else
 	{
 		sprite_index = spr_run;
+		if (audio_is_playing(step_metal__4_) == false) {
+		audio_play_sound(step_metal__4_, 0, false);
+	}
 	}
 }
 
