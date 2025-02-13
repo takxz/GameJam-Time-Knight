@@ -6,6 +6,8 @@ var move = press_right - press_left
 hspd = move * walkspd
 vspd = vspd + grav;
 
+isStopped = (press_right == 0 && press_left == 0)
+
 if (place_meeting(x, y + 1, obj_collision)) && (press_jump)
 {
 	vspd = -10
