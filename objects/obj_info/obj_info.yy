@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_play",
+  "%Name":"obj_info",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_play",
+  "name":"obj_info",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_play",
-    "path":"sprites/spr_play/spr_play.yy",
+    "name":"spr_info",
+    "path":"sprites/spr_info/spr_info.yy",
   },
   "spriteMaskId":null,
   "visible":true,
