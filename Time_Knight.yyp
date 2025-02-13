@@ -61,8 +61,6 @@
     {"id":{"name":"spr_jump","path":"sprites/spr_jump/spr_jump.yy",},},
     {"id":{"name":"spr_mur_ennemy","path":"sprites/spr_mur_ennemy/spr_mur_ennemy.yy",},},
     {"id":{"name":"spr_mur_final","path":"sprites/spr_mur_final/spr_mur_final.yy",},},
-    {"id":{"name":"spr_mur","path":"sprites/spr_mur/spr_mur.yy",},},
-    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_run","path":"sprites/spr_run/spr_run.yy",},},
     {"id":{"name":"spr_runattack","path":"sprites/spr_runattack/spr_runattack.yy",},},
     {"id":{"name":"Sprite12","path":"sprites/Sprite12/Sprite12.yy",},},

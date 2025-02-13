@@ -1,6 +1,6 @@
 
 
-if (obj_player.hspd == 0) && (obj_player.vspd == 0)
+if (obj_player_final.hspd == 0) && (obj_player_final.vspd == 0)
 {
 	time_millisec = time_millisec
 }else{
