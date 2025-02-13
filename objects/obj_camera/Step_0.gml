@@ -1,3 +1,10 @@
-camera_set_view_pos(camera, x, y)
+if (follow != noone)
+{
+	xTo = follow.x;
+	yTo = follow.y;
+}
 
-x = lerp(x, x + 50, 0.08)
+x += (xTo - x);
+y += (yTo - y);
+
+camera_set_view_pos(view_camera[0], x-(camWidth*0.5), y-(camHeight*0.5));

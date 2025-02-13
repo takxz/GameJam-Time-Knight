@@ -1,5 +1,3 @@
-
-
 if (obj_player.hspd == 0) && (obj_player.vspd == 0)
 {
 	time_millisec = time_millisec
