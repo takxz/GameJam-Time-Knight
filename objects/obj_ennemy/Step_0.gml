@@ -57,5 +57,5 @@ if is_firing = false {
 	is_firing = true
 	sprite_index = spr_ennemy_attack
 	instance_create_layer(x, y, "Ennemy", obj_fireball)
-	alarm[0] = choose(180, 240, 300)
+	alarm[0] = choose(180, 300, 400)
 }
