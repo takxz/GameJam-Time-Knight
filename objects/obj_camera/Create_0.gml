@@ -1,4 +1,10 @@
-camera = view_camera[0];
+camWidth = 1080;
+camHeight = 720;
 
-x = room_width / 2
-y = 0
+follow = obj_player;
+
+x = follow.x;
+y = follow.y;
+
+xTo = x;
+yTo = y;

@@ -4,6 +4,9 @@ draw_set_font(font_timer)
 draw_set_halign(fa_left)
 draw_set_valign(fa_top)
 
+var offset_x = 50;
+var offset_y = 10;
+
 var time = ""
 time += string(time_min)
 time += ":"
