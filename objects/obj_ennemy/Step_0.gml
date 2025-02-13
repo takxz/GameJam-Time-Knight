@@ -53,8 +53,22 @@ if (hspd != 0)
 }
 
 //Collision avec joueur
-if place_meeting(x, y-1, obj_player){
-hp -= 1	
+if place_meeting(x, y-1, obj_player) && obj_player.invicible == false
+{
+	if obj_player.y < y-10
+	{
+		with obj_player vspd = -4
+		hp -= 1	
+	}
+else
+	{
+		if obj_player.invicible == false
+	{
+		global.hp -= 1
+		obj_player.invicible = true
+		obj_player.alarm[0] = 30
+		}
+	}
 }
 
 // tir
