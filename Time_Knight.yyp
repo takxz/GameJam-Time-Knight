@@ -56,6 +56,8 @@
     {"id":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
     {"id":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
     {"id":{"name":"fireball_sound","path":"sounds/fireball_sound/fireball_sound.yy",},},
+    {"id":{"name":"hit1","path":"sounds/hit1/hit1.yy",},},
+    {"id":{"name":"hit3","path":"sounds/hit3/hit3.yy",},},
     {"id":{"name":"step_metal__4_","path":"sounds/step_metal__4_/step_metal__4_.yy",},},
     {"id":{"name":"The_Old_Tower_Inn","path":"sounds/The_Old_Tower_Inn/The_Old_Tower_Inn.yy",},},
     {"id":{"name":"Walking_sound_effect","path":"sounds/Walking_sound_effect/Walking_sound_effect.yy",},},

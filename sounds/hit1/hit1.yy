@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"fireball_sound",
+  "%Name":"hit1",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":1.727687,
-  "name":"fireball_sound",
+  "duration":0.417959,
+  "name":"hit1",
   "parent":{
     "name":"Sound",
     "path":"folders/Sound.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"fireball_sound.wav",
+  "soundFile":"hit1.mp3",
   "type":0,
-  "volume":0.5,
+  "volume":1.0,
 }

@@ -35,6 +35,8 @@
     {"name":"room_level2","order":3,"path":"rooms/room_level2/room_level2.yy",},
     {"name":"RoomTestCorentin","order":1,"path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},
     {"name":"fireball_sound","order":3,"path":"sounds/fireball_sound/fireball_sound.yy",},
+    {"name":"hit1","order":4,"path":"sounds/hit1/hit1.yy",},
+    {"name":"hit3","order":5,"path":"sounds/hit3/hit3.yy",},
     {"name":"step_metal__4_","order":1,"path":"sounds/step_metal__4_/step_metal__4_.yy",},
     {"name":"Walking_sound_effect","order":2,"path":"sounds/Walking_sound_effect/Walking_sound_effect.yy",},
     {"name":"_1st_Layer","order":2,"path":"sprites/_1st_Layer/_1st_Layer.yy",},
