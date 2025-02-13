@@ -1,3 +1,13 @@
+var player_x = obj_player.x;
+var player_y = obj_player.y;
+
+// Vérification de la direction à laquelle l'ennemi doit faire face
+if (player_x < x) {
+    image_xscale = -1; // Tourner l'ennemi vers la gauche
+} else {
+    image_xscale = 1; // Tourner l'ennemi vers la droite
+}
+
 vspd = vspd + grav;
 
 if (place_meeting(x + hspd, y, obj_collision))
