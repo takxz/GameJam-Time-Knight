@@ -1,11 +1,11 @@
 var player_x = obj_player.x;
 var player_y = obj_player.y;
 
-// Vérification de la direction à laquelle l'ennemi doit faire face
+// vérification de ou le player est pour se tourner vers lui
 if (player_x < x) {
-    image_xscale = -1; // Tourner l'ennemi vers la gauche
+    image_xscale = -1; 
 } else {
-    image_xscale = 1; // Tourner l'ennemi vers la droite
+    image_xscale = 1; 
 }
 
 vspd = vspd + grav;
@@ -31,26 +31,6 @@ if (place_meeting(x, y + vspd, obj_collision))
 
 y = y + vspd
 
-if (!place_meeting(x, y + 1, obj_collision))
-{
-	sprite_index = spr_ennemy_idle;
-}
-else
-{
-	if(hspd == 0)
-	{
-		sprite_index = spr_ennemy_idle;	
-	}
-	else
-	{
-		sprite_index = spr_ennemy_idle;
-	}
-}
-
-if (hspd != 0)
-{
-	image_xscale = sign(hspd)	
-}
 
 //Collision avec joueur
 if place_meeting(x, y-1, obj_player) && obj_player.invicible == false
