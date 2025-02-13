@@ -53,8 +53,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
     {"roomId":{"name":"RoomTestMalo","path":"rooms/RoomTestMalo/RoomTestMalo.yy",},},
+    {"roomId":{"name":"RoomTestCorentin","path":"rooms/RoomTestCorentin/RoomTestCorentin.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
