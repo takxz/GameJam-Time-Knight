@@ -59,6 +59,6 @@ if (point_distance(x, y, player_x, player_y) < detection_radius  && !obj_player.
         is_firing = true;
         sprite_index = spr_ennemy_attack;
         instance_create_layer(x, y, "Ennemy", obj_fireball);
-        alarm[0] = choose(150, 210, 340);
+        alarm[0] = choose(340, 410, 500);
     }
 }
