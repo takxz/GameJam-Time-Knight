@@ -1,7 +1,10 @@
+press_right = 0
+press_left = 0
+press_jump = 0
 hspd = 0;
 vspd = 0;
 grav = 0.5;
 walkspd = 4;
 isStopped = false;
-global.hp = 3;
 invicible = false;
+global.hp = 3;

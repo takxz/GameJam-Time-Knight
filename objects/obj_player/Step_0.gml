@@ -6,7 +6,7 @@ var move = press_right - press_left
 hspd = move * walkspd
 vspd = vspd + grav;
 
-isStopped = (press_right == 0 && press_left == 0 and press_jump == 0)
+isStopped = (press_right == 0 && press_left == 0 && press_jump == 0)
 
 if (place_meeting(x, y + 1, obj_collision)) && (press_jump)
 {
@@ -57,3 +57,5 @@ if (hspd != 0)
 {
 	image_xscale = sign(hspd)	
 }
+
+
