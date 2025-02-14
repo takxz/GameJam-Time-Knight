@@ -88,7 +88,9 @@
     {"name":"spr_restart_menu","order":26,"path":"sprites/spr_restart_menu/spr_restart_menu.yy",},
     {"name":"spr_run","order":10,"path":"sprites/spr_run/spr_run.yy",},
     {"name":"spr_runattack","order":4,"path":"sprites/spr_runattack/spr_runattack.yy",},
+    {"name":"spr_tileset_mossy","order":26,"path":"sprites/spr_tileset_mossy/spr_tileset_mossy.yy",},
     {"name":"spr_title_banner","order":23,"path":"sprites/spr_title_banner/spr_title_banner.yy",},
     {"name":"Sprite12","order":16,"path":"sprites/Sprite12/Sprite12.yy",},
+    {"name":"ts_mossy","order":1,"path":"tilesets/ts_mossy/ts_mossy.yy",},
   ],
 }
