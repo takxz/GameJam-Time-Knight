@@ -5,4 +5,4 @@ grav = 0.5;
 hp = 1
 
 is_firing = false;
-detection_radius = 750;
+detection_radius = 500;
