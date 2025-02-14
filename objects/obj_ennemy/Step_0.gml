@@ -44,17 +44,17 @@ if place_meeting(x, y-1, obj_player) && obj_player.invicible == false
 else
 	{
 		if obj_player.invicible == false
-	{
-		global.hp -= 1
-		obj_player.invicible = true
-		obj_player.alarm[0] = 30
+		{
+			global.hp -= 1
+			obj_player.invicible = true
+			obj_player.alarm[0] = 30
 		}
 	}
 }
 
 // tir
 
-if (point_distance(x, y, player_x, player_y) < detection_radius) {
+if (point_distance(x, y, player_x, player_y) < detection_radius  && !obj_player.isStopped) {
     if (is_firing == false) {
         is_firing = true;
         sprite_index = spr_ennemy_attack;
