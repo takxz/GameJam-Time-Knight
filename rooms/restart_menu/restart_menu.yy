@@ -8,7 +8,7 @@
   "instanceCreationOrder":[
     {"name":"inst_2572C622","path":"rooms/restart_menu/restart_menu.yy",},
     {"name":"inst_38E18AD1","path":"rooms/restart_menu/restart_menu.yy",},
-    {"name":"inst_709ED445","path":"rooms/restart_menu/restart_menu.yy",},
+    {"name":"inst_222CFCB9","path":"rooms/restart_menu/restart_menu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -17,7 +17,7 @@
         {"$GMRInstance":"v1","%Name":"inst_38E18AD1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_38E18AD1","objectId":{"name":"obj_mainMenu","path":"objects/obj_mainMenu/obj_mainMenu.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.3333333,"scaleY":5.0,"x":800.0,"y":672.0,},
       ],"layers":[],"name":"Button","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Title","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_709ED445","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_709ED445","objectId":{"name":"obj_restart_title","path":"objects/obj_restart_title/obj_restart_title.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":6.0120482,"scaleY":5.740741,"x":704.0,"y":128.0,},
+        {"$GMRInstance":"v1","%Name":"inst_222CFCB9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_222CFCB9","objectId":{"name":"obj_lost","path":"objects/obj_lost/obj_lost.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":544.0,"y":32.0,},
       ],"layers":[],"name":"Title","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_restart_menu","path":"sprites/spr_restart_menu/spr_restart_menu.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

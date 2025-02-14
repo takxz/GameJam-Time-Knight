@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_lost",
   "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_lost",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_title_banner",
-    "path":"sprites/spr_title_banner/spr_title_banner.yy",
+    "name":"spr_lost",
+    "path":"sprites/spr_lost/spr_lost.yy",
   },
   "spriteMaskId":null,
   "visible":true,

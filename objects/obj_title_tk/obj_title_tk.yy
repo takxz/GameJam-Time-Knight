@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_title_tk",
   "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_title_tk",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_title_banner",
-    "path":"sprites/spr_title_banner/spr_title_banner.yy",
+    "name":"title_timeknight",
+    "path":"sprites/title_timeknight/title_timeknight.yy",
   },
   "spriteMaskId":null,
   "visible":true,

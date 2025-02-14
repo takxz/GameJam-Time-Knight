@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_credit_text",
   "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_credit_text",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_title_banner",
-    "path":"sprites/spr_title_banner/spr_title_banner.yy",
+    "name":"spr_credit_text",
+    "path":"sprites/spr_credit_text/spr_credit_text.yy",
   },
   "spriteMaskId":null,
   "visible":true,

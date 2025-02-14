@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_title",
+  "%Name":"obj_createur",
   "eventList":[],
   "managed":true,
-  "name":"obj_title",
+  "name":"obj_createur",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_title_banner",
-    "path":"sprites/spr_title_banner/spr_title_banner.yy",
+    "name":"spr_createur",
+    "path":"sprites/spr_createur/spr_createur.yy",
   },
   "spriteMaskId":null,
   "visible":true,

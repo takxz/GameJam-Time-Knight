@@ -1,6 +1,0 @@
-draw_set_color(c_black)
-draw_set_font(credits_font)
-draw_set_halign(fa_left)
-draw_set_valign(fa_top)
-draw_text(850, 400, "Developpeurs")
-draw_text(840, 500, "Hardouin Malo \n Leys Corentin")
