@@ -1,4 +1,4 @@
 if global.hp <= 0 
 {
-	game_restart()
+	room_goto(restart_menu);
 }
